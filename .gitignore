@@ -1,0 +1,7 @@
+.cache/
+.mypy_cache/
+.vscode/
+__pycache__/
+
+HellTriangle-Challenge-3-2.pdf
+
